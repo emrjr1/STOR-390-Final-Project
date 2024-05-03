@@ -1,6 +1,7 @@
 # STOR-390-Final-Project
 
 This repository contains my final project for STOR 390 - Machine Moral Learning at UNC-Chapel Hill in the Spring semester of 2024. In this project I am attempting to review this article: https://journals.sagepub.com/doi/full/10.1177/0894439319882896 on both its statistical, and ethical merits. The article uses digital trace data to try to predict election outcomes. In my paper there are 4 different sections titled: Introduction, Analysis of Methods, Analysis of Normative Concern, and Conclusion. In the Analysis of Methods section I explain the methods the authors use to predict the outcomes of elections, and share the results of their work. In the Analysis of Normative Concern section I provide a moral framework, then apply it to the authors methods to see how permissible their actions are in accordance to that moral framework. 
+
 **disclaimer and apology**
 As part of this project, there is a requirement to "provide some novel analysis of your own." This is undeniably a requirement that I did not satisfy in my writing. To be completely honest, I never really understood what that requirement was asking for, and instead of going to my instructor and asking for clarification on what the requirement was asking for, or even just asking for help on _attempting_ to apply the methods myself, I chose to go at it on my own without knowing what I was meant to do. The "analysis of methods" section of my writing undoubtedly falls short of the expectations set by my instructor. 
 
